@@ -1,4 +1,4 @@
-This repository contains my performance tasks for Systems Architecture and Operating Systems, focusing on distributed storage, hardware redundancy, and process scheduling.
+This repository contains my performance tasks for CSA. My Subject for my 2nd Year, 2nd Semester.
 
 ## 📂 Distributed Storage (GlusterFS)
 Implementation of a 2-node distributed storage cluster using **GlusterFS**. This project demonstrates High Availability (HA) where data remains accessible even if one node fails.
