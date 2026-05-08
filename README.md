@@ -16,5 +16,5 @@ Python implementation of various Disk Scheduling algorithms used by operating sy
 *   **Goal:** Minimizing total head movement to optimize disk performance.
 
 ---
-**Author:** Nathaniel Victoria  
+**Submitted by:** Nathaniel Victoria & Kier Tongol
 **Course:** Computer Science
